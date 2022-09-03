@@ -1,0 +1,22 @@
+[
+  {
+    "model": "quickstart.contact",
+    "pk": 1,
+    "fields": {
+      "Name": "Toheed",
+      "Email": "sk58@gmail.com",
+      "Message": "kljglkjglk",
+      "Mobile_Number": 9653697318
+    }
+  },
+  {
+    "model": "quickstart.contact",
+    "pk": 2,
+    "fields": {
+      "Name": "john",
+      "Email": "john@gmail.com",
+      "Message": "Hello john",
+      "Mobile_Number": 8272498174
+    }
+  }
+]
